@@ -13,6 +13,3 @@ This is suppose texted editor that runs in the browser as a progress web applica
 or 
 
 1. Hit the install button
-2. `npm run install` to install all modules within all directories
-3. `npm run build` to build webpack
-4. `npm start` to run everything concurrently
